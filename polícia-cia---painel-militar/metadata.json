@@ -1,0 +1,6 @@
+{
+  "name": "Polícia CIA - Painel Militar",
+  "description": "Mesa de Operações Integradas para gestão militar e controle estratégico da Polícia CIA no Habbo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
