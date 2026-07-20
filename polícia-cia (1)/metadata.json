@@ -1,6 +1,0 @@
-{
-  "name": "Polícia CIA",
-  "description": "Portal de acesso para a Polícia CIA, com tela de login personalizada, registro de novos membros e painel de controle do policial.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
